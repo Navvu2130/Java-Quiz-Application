@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="start">Start</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="about">About</string>
+    <string name="a">A</string>
+    <string name="c">C</string>
+    <string name="b">B</string>
+    <string name="d">D</string>
+    <string name="next_question">Next Question</string>
+    <string name="quit">Quit</string>
+    <string name="questions">Questions</string>
+    <string name="your_score">Your Score</string>
+    <string name="_0">0</string>
+    <string name="restart">Restart</string>
+    <string name="developers">Developers</string>
+    <string name="naveen">Naveen</string>
+    <string name="back">Back</string>
+    <string name="todo">TODO</string>
+    <string name="quiz_app">Quiz App</string>
+    <string name="_19bcs2130_gmail_com">19BCS2130@gmail.com</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="enter_your_city">Enter Your City</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="title_activity_login">Login Activity</string>
+    <string name="you_ve_successfully_login_signup">You\'ve Successfully Login/Signup</string>
+</resources>
